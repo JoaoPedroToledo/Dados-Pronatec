@@ -28,3 +28,5 @@ Se preferir, há um comando com mais pacotes:
 ```
 pip install requests beautifulsoup4 spotipy pdfminer3k selenium twitter wbdata pandas matplotlib lxml tweepy uber-rides xlrd PyPDF2 pytrends seaborn numpy ipython jupyter
 ```
+
+Para a leitura da tabela em Excel, tanto para CSV quanto para XLSX, o código binário salvo deve ser o utf-8.
