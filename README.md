@@ -1,4 +1,4 @@
-# Analise de dados Publicos com python utilizando a biblioteca Pandas
+# Analise de dados públicos com python utilizando a biblioteca Pandas
 Análise de Dados do Pronatec, utilizando python para o EP4 da matéria de Estrutura de Dados da Fatec de SJC.
 
 Realizado pelos Alunos -  Bruna Maria da Silva Gonçalves e João Pedro Toledo Cuyabano
