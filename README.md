@@ -3,7 +3,7 @@ Análise de Dados do Pronatec, utilizando python para o EP4 da matéria de Estru
 
 Dados retirados do site:
 ```
-http://dados.gov.br/dataset/mec-pronatec-eptc/resource/de158421-c281-4a02-9d71-6cf8c283b585
+http://informacao.mec.gov.br/bilibs/PDA/PRONATEC/PDA_UNIDADES_RF_EPCT_CSV.csv
 ```
 Realizado pelos Alunos do 3º Semestre A  
 - Bruna Maria da Silva Gonçalves e João Pedro Toledo Cuyabano 
