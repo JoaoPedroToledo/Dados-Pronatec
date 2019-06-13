@@ -1,7 +1,8 @@
 # Analise de dados públicos com python utilizando a biblioteca Pandas
 Análise de Dados do Pronatec, utilizando python para o EP4 da matéria de Estrutura de Dados da Fatec de SJC.
 
-Realizado pelos Alunos -  Bruna Maria da Silva Gonçalves e João Pedro Toledo Cuyabano
+Realizado pelos Alunos do 3º Semestre A  
+- Bruna Maria da Silva Gonçalves e João Pedro Toledo Cuyabano 
 
 O trabalho foi realizado com o jupyter notebook, um aplicativo da Web de código aberto que permite criar e compartilhar documentos que contêm código ativo, equações, visualizações e texto narrativo. Os usos incluem: limpeza e transformação de dados, simulação numérica, modelagem estatística, visualização de dados, aprendizado de máquina e muito mais.
 
